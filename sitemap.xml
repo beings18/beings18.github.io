@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://beings18.github.io/2024/10/02/post/</loc>
+    <loc>http://beings18.github.io/2024/09/01/%E6%95%A3%E6%96%87-%E7%BC%98%E8%B5%B7/</loc>
+    
+    <lastmod>2024-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://beings18.github.io/2024/10/02/%E5%92%8C%E6%9D%8E%E8%80%81%E5%B8%88%E7%9A%84%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8/</loc>
     
     <lastmod>2024-10-03</lastmod>
     
@@ -14,15 +23,6 @@
     <loc>http://beings18.github.io/2024/09/19/%E4%B8%80%E3%80%81%E5%BC%80%E5%A7%8B/</loc>
     
     <lastmod>2024-09-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://beings18.github.io/2024/09/01/%E6%95%A3%E6%96%87-%E7%BC%98%E8%B5%B7/</loc>
-    
-    <lastmod>2024-08-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -92,14 +92,14 @@
 
   
   <url>
-    <loc>http://beings18.github.io/tags/article/</loc>
+    <loc>http://beings18.github.io/tags/Diary/</loc>
     <lastmod>2024-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://beings18.github.io/tags/Diary/</loc>
+    <loc>http://beings18.github.io/tags/article/</loc>
     <lastmod>2024-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
